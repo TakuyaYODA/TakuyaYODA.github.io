@@ -1,0 +1,53 @@
+---
+layout: default
+lang: ja-JP
+---
+
+# [](#header-1)プロフィール
+## [](#header-2)名前<img src="face.png" width="150" height="150" style="float:right">
+依田　拓也<a href="https://orcid.org/0000-0002-2074-386X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2074-386X</a>
+
+## [](#header-2)所属
+* 九州大学大学院 システム情報科学府 情報知能工学専攻 実世界ロボティクス講座
+
+## [](#header-2)学年
+* 修士2年
+
+## [](#header-2)学歴
+* 2017年4月 大阪大学 産業科学研究科 特別研究学生
+* 2016年4月	九州大学大学院 システム情報科学府 情報知能工学専攻 修士課程 入学
+* 2016年3月	九州大学 工学部 電気情報工学科 卒業
+* 2012年4月	九州大学 工学部 電気情報工学科 入学
+* 2012年3月	広島県立尾道北高等学校 卒業
+
+---
+# [](#header-1)連絡先
+## [](#header-2)E-Mail
+yoda@limu.ait.kyushu-u.ac.jp
+
+## [](#header-2)電話番号/FAX
+* TEL : 06-6105-6074 
+* FAX : 06-6105-6075
+
+## [](#header-2)住所
+〒565-0871
+
+大阪府吹田市山田丘2番8号テクノアライアンス棟 4階 データビリティフロンティア機構
+
+---
+# [](#header-1)研究
+
+---
+# [](#header-1)発表文献
+## [](#header-2)国際会議
+* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", International Conference on Pattern Recognition (ICPR2016), pp.2357-2362, Mexico, Dec., 2016 (Acceptance Rate:16.7%, orals) <a href="http://ieeexplore.ieee.org/document/7899988/" target="_blank">[paper]</a> <a href="biblio/bibtex0004.bib">[bibtex]</a>
+* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", 3rd International Workshop on Image Sensors and Imaging Systems(IWISS2016), pp1-2, Nov, 2016 <a href="http://www.ite.or.jp/ken/paper/20161117uA59/eng/" target="_blank">[detail]</a> <a href="biblio/bibtex0003.bib">[bibtex]</a>
+
+## [](#header-2)国内会議
+* 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第20回画像の認識・理解シンポジウム（MIRU2017), 広島, 8月, 2017 <a href="biblio/bibtex0005.bib">[bibtex]</a>
+* 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第19回画像の認識・理解シンポジウム（MIRU2016), 静岡, 8月, 2016 <a href="biblio/bibtex0002.bib">[bibtex]</a>
+* 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 情報処理学会コンピュータビジョンとイメージメディア研究会(2016-CVIM-202), pp.1-8, 大阪, 5月, 2016 <a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=159158&item_no=1" target="_blank">[detail]</a> <a href="biblio/bibtex0001.bib">[bibtex]</a>
+
+---
+# [](#header-1)受賞歴
+* <a href="http://cvim.ipsj.or.jp/MIRU2017/index.php?id=awards">第20回画像の認識・理解シンポジウム (MIRU2017) 学生奨励賞</a> (対象論文 “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”)
