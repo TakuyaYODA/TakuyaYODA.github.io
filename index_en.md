@@ -28,6 +28,7 @@ Institute for Datability Science, Osaka University
 
 ---
 # [](#header-1)Research
+*Coming soon...*
 
 ---
 # [](#header-1)Publication

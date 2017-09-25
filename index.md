@@ -36,6 +36,7 @@ yoda@limu.ait.kyushu-u.ac.jp
 
 ---
 # [](#header-1)研究
+*Coming soon...*
 
 ---
 # [](#header-1)発表文献
