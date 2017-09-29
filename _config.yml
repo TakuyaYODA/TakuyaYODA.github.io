@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TakuyaYODA
 show_downloads: false
-google_analytics: UA-107187854-1 # Your Google Analytics tracking ID
+google_analytics: true
 labo_link: true
 
 # Build settings
