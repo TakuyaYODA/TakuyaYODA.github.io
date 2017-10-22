@@ -33,5 +33,11 @@ Institute for Datability Science, Osaka University
 ---
 # [](#header-1)Publication
 ## [](#header-2)International Conferences
+* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor",
+The 13th Joint Workshop on Machine Perception and Robotics (MPR2017), Oct, 2017 <a href="biblio/bibtex0006.bib">[bibtex]</a>
 * Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", International Conference on Pattern Recognition (ICPR2016), pp.2357-2362, Mexico, Dec., 2016 (Acceptance Rate:16.7%, orals) <a href="http://ieeexplore.ieee.org/document/7899988/" target="_blank">[paper]</a> <a href="biblio/bibtex0004.bib">[bibtex]</a>
 * Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", 3rd International Workshop on Image Sensors and Imaging Systems(IWISS2016), pp1-2, Nov, 2016 <a href="http://www.ite.or.jp/ken/paper/20161117uA59/eng/" target="_blank">[detail]</a> <a href="biblio/bibtex0003.bib">[bibtex]</a>
+
+---
+# [](#header-1)Award
+* <a href="award/MPR2017_youngResearcherGroupWorkAward.pdf" target="_blank">Honorable Mention Young Researcher Group Work Award at the 13th Joint Workshop on Machine Perception and Robotics</a> (presentation title is *"An Automatic Bike Sharing Relocation System"*)
