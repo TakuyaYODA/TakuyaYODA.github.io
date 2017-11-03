@@ -41,15 +41,16 @@ yoda@limu.ait.kyushu-u.ac.jp
 ---
 # [](#header-1)発表文献
 ## [](#header-2)国際会議
-* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor",
+* [Poster] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor",
 The 13th Joint Workshop on Machine Perception and Robotics (MPR2017), Oct, 2017 <a href="biblio/bibtex0006.bib">[bibtex]</a>
-* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", International Conference on Pattern Recognition (ICPR2016), pp.2357-2362, Mexico, Dec., 2016 (Acceptance Rate:16.7%, orals) <a href="http://ieeexplore.ieee.org/document/7899988/" target="_blank">[paper]</a> <a href="biblio/bibtex0004.bib">[bibtex]</a>
-* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", 3rd International Workshop on Image Sensors and Imaging Systems(IWISS2016), pp1-2, Nov, 2016 <a href="http://www.ite.or.jp/ken/paper/20161117uA59/eng/" target="_blank">[detail]</a> <a href="biblio/bibtex0003.bib">[bibtex]</a>
+* [Oral] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", International Conference on Pattern Recognition (ICPR2016), pp.2357-2362, Mexico, Dec., 2016 (Acceptance Rate:16.7%, orals) <a href="http://ieeexplore.ieee.org/document/7899988/" target="_blank">[paper]</a> <a href="biblio/bibtex0004.bib">[bibtex]</a>
+* [Poster] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", 3rd International Workshop on Image Sensors and Imaging Systems(IWISS2016), pp1-2, Nov, 2016 <a href="http://www.ite.or.jp/ken/paper/20161117uA59/eng/" target="_blank">[detail]</a> <a href="biblio/bibtex0003.bib">[bibtex]</a>
 
 ## [](#header-2)国内会議
-* 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第20回画像の認識・理解シンポジウム（MIRU2017), 広島, 8月, 2017 <a href="biblio/bibtex0005.bib">[bibtex]</a>
-* 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第19回画像の認識・理解シンポジウム（MIRU2016), 静岡, 8月, 2016 <a href="biblio/bibtex0002.bib">[bibtex]</a>
-* 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 情報処理学会コンピュータビジョンとイメージメディア研究会(2016-CVIM-202), pp.1-8, 大阪, 5月, 2016 <a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=159158&item_no=1" target="_blank">[detail]</a> <a href="biblio/bibtex0001.bib">[bibtex]</a>
+* [Demonstration] 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第11回新画像システム・情報フォトニクス研究討論会, 東京, 11月, 2017 <a href="biblio/bibtex0007.bib">[bibtex]</a>
+* [Demonstration] 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第20回画像の認識・理解シンポジウム（MIRU2017), 広島, 8月, 2017 <a href="biblio/bibtex0005.bib">[bibtex]</a>
+* [Poster] 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第19回画像の認識・理解シンポジウム（MIRU2016), 静岡, 8月, 2016 <a href="biblio/bibtex0002.bib">[bibtex]</a>
+* [Poster] 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 情報処理学会コンピュータビジョンとイメージメディア研究会(2016-CVIM-202), pp.1-8, 大阪, 5月, 2016 <a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=159158&item_no=1" target="_blank">[detail]</a> <a href="biblio/bibtex0001.bib">[bibtex]</a>
 
 ---
 # [](#header-1)受賞歴
