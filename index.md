@@ -5,7 +5,7 @@ lang: ja-JP
 
 # [](#header-1)プロフィール
 ## [](#header-2)名前<img src="face.png" width="150" height="150" style="float:right">
-依田　拓也<a href="https://orcid.org/0000-0002-2074-386X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2074-386X</a>
+依田　拓也
 
 ## [](#header-2)所属
 * 九州大学大学院 システム情報科学府 情報知能工学専攻 実世界ロボティクス講座
@@ -40,11 +40,14 @@ yoda@limu.ait.kyushu-u.ac.jp
 
 ---
 # [](#header-1)発表文献
+## [](#header-2)論文誌
+* Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "The Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", Sensors, vol. 18, number 3, Mar., 2018 <a href="http://www.mdpi.com/1424-8220/18/3/786" target="_blank">[paper]</a> <a href="biblio/bibtex0008.bib">[bibtex]</a>
+
 ## [](#header-2)国際会議
 * [Poster] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor",
-The 13th Joint Workshop on Machine Perception and Robotics (MPR2017), Oct, 2017 <a href="biblio/bibtex0006.bib">[bibtex]</a>
+The 13th Joint Workshop on Machine Perception and Robotics (MPR2017), Oct., 2017 <a href="biblio/bibtex0006.bib">[bibtex]</a>
 * [Oral] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", International Conference on Pattern Recognition (ICPR2016), pp.2357-2362, Mexico, Dec., 2016 (Acceptance Rate:16.7%, orals) <a href="http://ieeexplore.ieee.org/document/7899988/" target="_blank">[paper]</a> <a href="biblio/bibtex0004.bib">[bibtex]</a>
-* [Poster] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", 3rd International Workshop on Image Sensors and Imaging Systems(IWISS2016), pp1-2, Nov, 2016 <a href="http://www.ite.or.jp/ken/paper/20161117uA59/eng/" target="_blank">[detail]</a> <a href="biblio/bibtex0003.bib">[bibtex]</a>
+* [Poster] Takuya Yoda, Hajime Nagahara, Rin-ichiro Taniguchi, Keiichiro Kagawa, Keita Yasutomi, Shoji Kawahito, "Dynamic Photometric Stereo Method using Multi-tap CMOS Image Sensor", 3rd International Workshop on Image Sensors and Imaging Systems(IWISS2016), pp1-2, Nov., 2016 <a href="http://www.ite.or.jp/ken/paper/20161117uA59/eng/" target="_blank">[detail]</a> <a href="biblio/bibtex0003.bib">[bibtex]</a>
 
 ## [](#header-2)国内会議
 * [Demonstration] 依田 拓也, 長原 一, 谷口 倫一郎, 香川 景一郎, 安富 啓太, 川人 祥二, “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”, 第11回新画像システム・情報フォトニクス研究討論会, 東京, 11月, 2017 <a href="biblio/bibtex0007.bib">[bibtex]</a>
