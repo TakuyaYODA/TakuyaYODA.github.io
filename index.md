@@ -8,13 +8,15 @@ lang: ja-JP
 依田　拓也
 
 ## [](#header-2)所属
-* 九州大学大学院 システム情報科学府 情報知能工学専攻 実世界ロボティクス講座
+* 大阪大学大学院 情報科学研究科 コンピュータサイエンス専攻 知能メディア複合講座
 
 ## [](#header-2)学年
-* 修士2年
+* 博士後期 1年
 
 ## [](#header-2)学歴
-* 2017年4月 大阪大学 産業科学研究科 特別研究学生
+* 2018年4月	大阪大学大学院 情報科学研究科 コンピュータサイエンス専攻 博士後期課程 入学
+* 2018年3月	九州大学大学院 システム情報科学府 情報知能工学専攻 修士課程 卒業
+* 2017年4月〜2018年3月 大阪大学 産業科学研究科 特別研究学生
 * 2016年4月	九州大学大学院 システム情報科学府 情報知能工学専攻 修士課程 入学
 * 2016年3月	九州大学 工学部 電気情報工学科 卒業
 * 2012年4月	九州大学 工学部 電気情報工学科 入学
@@ -57,5 +59,6 @@ The 13th Joint Workshop on Machine Perception and Robotics (MPR2017), Oct., 2017
 
 ---
 # [](#header-1)受賞歴
+* <a href="http://portal.isee.kyushu-u.ac.jp/alumni/topics/H29award" target="_blank">第8回(平成29年度)九州大学大学院システム情報科学府 優秀学生表彰 受賞</a>
 * <a href="award/MPR2017_youngResearcherGroupWorkAward.pdf" target="_blank">Honorable Mention Young Researcher Group Work Award at the 13th Joint Workshop on Machine Perception and Robotics</a> (presentation title is *"An Automatic Bike Sharing Relocation System"*)
 * <a href="http://cvim.ipsj.or.jp/MIRU2017/index.php?id=awards" target="_blank">第20回画像の認識・理解シンポジウム (MIRU2017) 学生奨励賞</a> (対象論文 “マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法”)

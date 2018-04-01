@@ -8,10 +8,10 @@ lang: en-US
 Takuya Yoda
 
 ## [](#header-2)Organization Name
-* Department of Advanced Information Technology, Graduate School of Information Science and Electrical Engineering, Kyushu University
+* Intelligent Media Systems, Computer Science, Graduate School of Information Science and Technology, Osaka University
 
 ## [](#header-2)Course
-* Master Course (Second year)
+* Doctor Course (First year)
 
 ---
 # [](#header-1)Contact
