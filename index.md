@@ -25,7 +25,7 @@ lang: ja-JP
 ---
 # [](#header-1)連絡先
 ## [](#header-2)E-Mail
-yoda@limu.ait.kyushu-u.ac.jp
+yoda@am.sanken.osaka-u.ac.jp
 
 ## [](#header-2)電話番号/FAX
 * TEL : 06-6105-6074 

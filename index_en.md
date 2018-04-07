@@ -16,7 +16,7 @@ Takuya Yoda
 ---
 # [](#header-1)Contact
 ## [](#header-2)E-Mail
-yoda@limu.ait.kyushu-u.ac.jp
+yoda@am.sanken.osaka-u.ac.jp
 
 ## [](#header-2)TEL
 * TEL : +81-6-6105-6074
