@@ -8,23 +8,21 @@ lang: en-US
 Takuya Yoda
 
 ## [](#header-2)Organization Name
-* Intelligent Media Systems, Computer Science, Graduate School of Information Science and Technology, Osaka University
+* -
 
 ## [](#header-2)Course
-* Doctor Course (First year)
+* -
 
 ---
 # [](#header-1)Contact
 ## [](#header-2)E-Mail
-yoda@am.sanken.osaka-u.ac.jp
+* -
 
 ## [](#header-2)TEL
-* TEL : +81-6-6105-6074
+* -
 
 ## [](#header-2)Address
-Institute for Datability Science, Osaka University
-
-2-8 Yamadaoka, Suita, Osaka 565-0871, Japan
+* -
 
 ---
 # [](#header-1)Research
